@@ -1927,3 +1927,37 @@ textarea:focus, input:focus, select:focus, .bootstrap-select .dropdown-toggle:fo
     font-size: 17px;
 }
 
+#menuDia{
+    background-color: white;
+    color: black;
+}
+#menuDia2{
+    background-color: white;
+    color: black;
+    padding-bottom: 25px;
+}
+
+#tarjeta{
+    padding-bottom: 10px;
+}
+#tarjetaGuille{
+    padding-bottom: 10px;
+}
+
+#tituloPodcast{
+    font-size: 35px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#video{
+    width: 50em;
+    height: 25em;
+}
+#fecha{
+    margin-left: -15px;
+}
+
+#podcast{
+    margin-left: 1em
+}
